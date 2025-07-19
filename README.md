@@ -5,12 +5,12 @@ Task-03- Tic-Tac-Toe Web App
 📁 Task: Build a web-based Tic-Tac-Toe game using HTML, CSS, and JavaScript
 
 🛠️ Technologies Used:
-.HTML
-.CSS
-.JavaScript
+✅ HTML
+✅ CSS
+✅ JavaScript
 
 🧠 Features:
-.Two-player mode
-.Win/draw detection
-.Reset functionality
-.Stylish, responsive UI
+✅ Two-player mode
+✅ Win/draw detection
+✅ Reset functionality
+✅ Stylish, responsive UI
